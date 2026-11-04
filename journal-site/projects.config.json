@@ -4,5 +4,23 @@
     "repo": "Sappling-Chores/GEMOTE",
     "branch": "main",
     "path": "JOURNAL.md"
+  },
+  {
+    "slug": "jasoos",
+    "repo": "Sappling-Chores/Jasoos",
+    "branch": "main",
+    "path":"JOURNAL.md"
+  },
+  {
+    "slug":"cyprus",
+    "repo": "Sappling-Chores/Cyprus",
+    "branch": "main",
+    "path":"JOURNAL.md"
+  },
+  {
+    "slug": "arcade-range-finder",
+    "repo": "Sappling-Chores/Arcade-Range-Finder",
+    "branch": "main",
+    "path": "JOURNAL.md"
   }
 ]
