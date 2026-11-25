@@ -53,8 +53,8 @@ export default async function MarkdownRenderer({
         rehypePlugins={[
           rehypeRaw,
           rehypeSlug,
-          rehypeKatex,
           [rehypeSanitize, customSanitizeSchema],
+          rehypeKatex,
         ]}
         components={{
           // ── Code blocks and inline code ─────────────────────────────────
